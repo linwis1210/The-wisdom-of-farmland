@@ -18,7 +18,7 @@ from sklearn.model_selection import train_test_split
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input_dir', default="newdataset/before",help='input annotated directory')
+    parser.add_argument('--input_dir', default="datasets/before",help='input annotated directory')
     parser.add_argument('--output_dir',default="VOCdevkit/VOC_1", help='output dataset directory')
     parser.add_argument('--labels', default ="datasets/label.txt" ,help='labels file')
     args = parser.parse_args()
