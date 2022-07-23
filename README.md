@@ -21,4 +21,8 @@
 
 ### 生成onnx文件
 
-produce_onnx.py 为导出并测试onnx文件
+produce_onnx.py 为导出并测试onnx文件。
+
+### 部署在C++环境
+
+onnx下为通过onnxruntime部署到c++环境。
