@@ -2,6 +2,7 @@
 
 # 基于云平台的智慧农田提取
 
+[![OSCS Status](https://www.oscs1024.com/platform/badge/linwis1210/The-wisdom-of-farmland.svg?size=small)](https://www.oscs1024.com/project/linwis1210/The-wisdom-of-farmland?ref=badge_small)
 
 ### 训练步骤
 
