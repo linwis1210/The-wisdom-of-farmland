@@ -27,4 +27,4 @@ produce_onnx.py 为导出并测试onnx文件
 
 ### 提取效果如下图：
 
-![img](imgs/1.jpg)
+![img](/imgs/img.jpg)
